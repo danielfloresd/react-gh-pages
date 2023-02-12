@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-gh-pages/static/css/main.283589cc.css",
-    "main.js": "/react-gh-pages/static/js/main.4e81b8dc.js",
+    "main.js": "/react-gh-pages/static/js/main.8ab56c96.js",
     "static/js/8957.c2bf39ef.chunk.js": "/react-gh-pages/static/js/8957.c2bf39ef.chunk.js",
     "static/js/2946.d2a7bf17.chunk.js": "/react-gh-pages/static/js/2946.d2a7bf17.chunk.js",
     "static/js/262.6e5915a8.chunk.js": "/react-gh-pages/static/js/262.6e5915a8.chunk.js",
@@ -56,7 +56,7 @@
     "static/media/hero-san-carlos.jfif": "/react-gh-pages/static/media/hero-san-carlos.8dfabd286a26352c746f.jfif",
     "index.html": "/react-gh-pages/index.html",
     "main.283589cc.css.map": "/react-gh-pages/static/css/main.283589cc.css.map",
-    "main.4e81b8dc.js.map": "/react-gh-pages/static/js/main.4e81b8dc.js.map",
+    "main.8ab56c96.js.map": "/react-gh-pages/static/js/main.8ab56c96.js.map",
     "8957.c2bf39ef.chunk.js.map": "/react-gh-pages/static/js/8957.c2bf39ef.chunk.js.map",
     "2946.d2a7bf17.chunk.js.map": "/react-gh-pages/static/js/2946.d2a7bf17.chunk.js.map",
     "262.6e5915a8.chunk.js.map": "/react-gh-pages/static/js/262.6e5915a8.chunk.js.map",
@@ -111,6 +111,6 @@
   },
   "entrypoints": [
     "static/css/main.283589cc.css",
-    "static/js/main.4e81b8dc.js"
+    "static/js/main.8ab56c96.js"
   ]
 }
